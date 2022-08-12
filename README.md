@@ -1,2 +1,4 @@
-# PY_CS50
-CS50 Harvard intro to Python Solutions to problem sets
+HarvardX CS50P
+CS50's Introduction to Programming with Python
+My solutions/answers to Problem Sets
+BlazeTech
